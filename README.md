@@ -6,5 +6,8 @@ eda: Exploratory Data Analysis & Utils
 models: Time series forecast models.
 
 # Dependencies:
-Pandas version:
-Statsmodels version:
+
+- Matplotlib version:
+- Numpy version: 
+- Pandas version:
+- Statsmodels version:
