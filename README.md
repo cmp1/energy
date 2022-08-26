@@ -2,8 +2,8 @@
 UK energy consumption, time-series forecasting.
 
 # Directory structure
-eda: Exploratory Data Analysis & Utils
-models: Time series forecast models.
+- python/eda: Exploratory Data Analysis & Utils
+- python/models: Time series forecast models.
 
 # Dependencies:
 
